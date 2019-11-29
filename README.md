@@ -5,6 +5,7 @@ Both of them are in this repo. You can clone this repo to your local and test.
 
 ## First Project Name: Puzzle Game
 Puzzle game is built based on pygame which is a powerful platform to creat game easily.
+
 ###how to run
 Make sure you have Python on your local.
 To run this, you have to have pygame, sys and random. Please use pip install before you run the puzzle.
