@@ -24,6 +24,8 @@ It's a simple puzzle game which you can click the cells near the white cell to m
  And you can get a lot "congratulations!" if you run with command line. 
  
  ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/2.png)
+ 
+ If you want to change the image of puzzle, you can put the new image in the folder and rename it as "stevens.png"
 
 ## Second Project Name: Translator
 This Translator is based on Google Translate service.
