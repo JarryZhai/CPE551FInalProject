@@ -62,26 +62,20 @@ def moveUp(board, blackCell):
     board[blackCell + VHNUMS], board[blackCell] = board[blackCell], board[blackCell + VHNUMS]
     return blackCell + VHNUMS
 
-
-# 是否完成
 def isFinished(board, blackCell):
     for i in range(CELLNUMS - 1):
         if board[i] != i:
             return False
     return True
 
-
-# 初始化
 pygame.init()
 mainClock = pygame.time.Clock()
 
-# 加载图片
 gameImage = pygame.image.load('stevens.png')
 gameRect = gameImage.get_rect()
 
-# 设置窗口
 windowSurface = pygame.display.set_mode((gameRect.width, gameRect.height))
-pygame.display.set_caption('拼图')
+pygame.display.set_caption('Stevens Puzzle')
 
 cellWidth = int(gameRect.width / VHNUMS)
 cellHeight = int(gameRect.height / VHNUMS)
@@ -90,7 +84,6 @@ finish = False
 
 gameBoard, blackCell = newGameBoard()
 
-# 游戏主循环
 while True:
     for event in pygame.event.get():
         if event.type == QUIT:
