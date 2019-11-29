@@ -16,4 +16,7 @@ You can simply double tap puzzle.py or use command line 'python puzzle.py' to ru
 and it will shows like this：
  ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/3.png)
 
+It's a simple puzzle game which you can click the cells near the white cell to move it. (You can also play it with direction keys on your keyboard. after you make all the 8 cells with right image, the whole image will show up. 
+ ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/1.png)And you can get a lot "congratulations!" if you run with command line. ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/2.png)
+
 
