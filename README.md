@@ -30,3 +30,10 @@ To run this, you have to have sys, hs2py, requests and PyQt5. Please use pip ins
 You can simply double tap puzzle.py or use command line 'python Translator.py' to run it.
 
 and it will shows like this:
+![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/4.png)
+you can input Chinese or English words to translate:
+![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/5.png)
+![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/6.png)
+you can also input a whole sentence to translate:
+![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/7.png)
+![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/8.png)
