@@ -14,10 +14,16 @@ To run this, you have to have pygame, sys and random. Please use pip install bef
 You can simply double tap puzzle.py or use command line 'python puzzle.py' to run it.
 
 and it will shows like this：
+
  ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/3.png)
 
 It's a simple puzzle game which you can click the cells near the white cell to move it. (You can also play it with direction keys on your keyboard.) after you make all the 8 cells with right image, the whole image will show up. 
- ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/1.png)And you can get a lot "congratulations!" if you run with command line. ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/2.png)
+
+ ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/1.png)
+ 
+ And you can get a lot "congratulations!" if you run with command line. 
+ 
+ ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/2.png)
 
 ## Second Project Name: Translator
 This Translator is based on Google Translate service.
@@ -30,10 +36,15 @@ To run this, you have to have sys, hs2py, requests and PyQt5. Please use pip ins
 You can simply double tap puzzle.py or use command line 'python Translator.py' to run it.
 
 and it will shows like this:
+
 ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/4.png)
+
 you can input Chinese or English words to translate:
+
 ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/5.png)
 ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/6.png)
+
 you can also input a whole sentence to translate:
+
 ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/7.png)
 ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/8.png)
