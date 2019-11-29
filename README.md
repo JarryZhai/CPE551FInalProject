@@ -10,6 +10,6 @@ Make sure you have Python on your local.
 To run this, you have to have pygame, sys and random. Please use pip install before you run the puzzle.
 You can simply double tap puzzle.py or use command line 'python puzzle.py' to runit.
 and it will shows like this：
- ![image](https://github.com/JarryZhai/CPE551FinalProject/master/images/3.png)
+ ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/3.png)
 
 
