@@ -40,6 +40,9 @@ It's a simple puzzle game which you can click the cells near the white cell to m
  ![image](https://github.com/JarryZhai/CPE551FinalProject/raw/master/images/2.png)
  
  If you want to change the image of puzzle, you can put the new image in the folder and rename it as "stevens.png"
+ 
+### To Do
+Now the game can change the image
 
 ## Second Project Name: Translator
 ### Introduction
