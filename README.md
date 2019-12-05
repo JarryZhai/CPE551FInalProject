@@ -4,7 +4,21 @@ I have two projects. "Stevens Puzzle" and "Translator"
 Both of them are in this repo. You can clone this repo to your local and test.
 
 ## First Project Name: Puzzle Game
+### Introduction
 Puzzle game is built based on pygame which is a powerful platform to creat game easily.
+
+### Purpose
+Design a one space puzzle game.
+
+### Function
+#### Pygame
+Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
+
+#### New a game board
+
+#### Move cells
+
+#### Main Game Loop
 
 ### How to run
 Make sure you have Python on your local.
@@ -28,7 +42,16 @@ It's a simple puzzle game which you can click the cells near the white cell to m
  If you want to change the image of puzzle, you can put the new image in the folder and rename it as "stevens.png"
 
 ## Second Project Name: Translator
+### Introduction
 This Translator is based on Google Translate service.
+
+### Purpose
+Design a translator can translat between Chinese and English
+
+### Function
+#### Google Translate Part
+
+#### UI based on PyQt5
 
 ### How to run
 Make sure you have Python on your local.
